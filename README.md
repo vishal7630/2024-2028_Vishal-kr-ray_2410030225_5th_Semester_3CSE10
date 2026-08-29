@@ -11,7 +11,7 @@ This repository contains my **internship report, presentation, certificates, and
 | Field | Details |
 |---|---|
 | **Name** | VISHAL KUMAR RAY |
-| **Roll Number** | 2410030125 |
+| **Roll Number** | 2410030225 |
 | **Institute** | IILM University, Greater Noida, U.P. |
 | **Programme** | B.Tech CSE |
 | **Semester** | 5th Semester |
