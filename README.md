@@ -15,7 +15,7 @@ This repository contains my **internship report, presentation, certificates, and
 | **Institute** | IILM University, Greater Noida, U.P. |
 | **Programme** | B.Tech CSE |
 | **Semester** | 5th Semester |
-| **Batch** | 2026–27 |
+| **Batch** | 2024–28 |
 | **Internship Domain** | SQL and Database Management Systems |
 | **Duration** | 8 Weeks |
 | **Internship Period** | April 2026 – June 2026 |
